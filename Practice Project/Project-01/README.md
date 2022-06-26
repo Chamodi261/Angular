@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
+## Angular with Bootstrap
+
+This projet was built by using "Angular" and "Bootstrap".
+
+Bootstrap : https://getbootstrap.com/
+
+## Create a New Projet
+
+Run `ng new project-name` to create a new project in cmd. Run `code .` for open a project into VS Code.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
