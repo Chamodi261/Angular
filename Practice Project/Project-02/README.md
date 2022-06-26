@@ -9,6 +9,10 @@ This project was built by using "Angular-Materials" and "Bootstrap".
   Angular-Materials : https://material.angular.io/
   
   Bootstrap : https://getbootstrap.com/
+  
+## Create a new Project
+
+Run `ng new project-name' to create a new project in cmd. Run `code .' for open a project into VS Code.
 
 ## Development server
 
