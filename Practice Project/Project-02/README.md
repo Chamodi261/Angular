@@ -12,7 +12,7 @@ This project was built by using "Angular-Materials" and "Bootstrap".
   
 ## Create a new Project
 
-Run `ng new project-name' to create a new project in cmd. Run `code .' for open a project into VS Code.
+Run `ng new project-name' to create a new project in cmd. Run `code .` for open a project into VS Code.
 
 ## Development server
 
